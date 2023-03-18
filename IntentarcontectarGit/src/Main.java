@@ -9,6 +9,8 @@ public class Main {
 	Calculadora.sumar(a, b);
 	Calculadora.multiplicar(a, a);
 	Calculadora.resta(a, b);
+	Calculadora.dividir(b, a);
+	
 	
 	
 
