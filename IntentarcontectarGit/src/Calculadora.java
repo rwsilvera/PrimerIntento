@@ -17,6 +17,12 @@ public class Calculadora {
 		int resultadoDivi=valor1/=valor2;
 		System.out.println(resultadoDivi);
 		return resultadoDivi;
+	}
+		public static int resta(int valor1, int valor2) {
+		int resultadoResta = valor1-valor2;
+		System.out.println(resultadoResta);
+		return resultadoResta;
+	}
 
 	}
 
